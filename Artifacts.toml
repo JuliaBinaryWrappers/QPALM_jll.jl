@@ -1,143 +1,143 @@
 [[QPALM]]
 arch = "aarch64"
-git-tree-sha1 = "4b4481649005d842d7655e4fea4c29221074b46e"
+git-tree-sha1 = "fd6f4e1ef1bc06bdf6a09f29b37873814ae205d6"
 os = "macos"
 
     [[QPALM.download]]
-    sha256 = "74a09ab0d2038e0841802c70dc44e27f8a55b116773ed1ac06e3493f9befe79a"
-    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.1.1+0/QPALM.v0.1.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "e0fae71b539b4fd32375f563fcceb0b4f4fe97afca532aa83e934e79188316a3"
+    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.2.0+0/QPALM.v0.2.0.aarch64-apple-darwin.tar.gz"
 [[QPALM]]
 arch = "aarch64"
-git-tree-sha1 = "59d9e6dd1ece2165875afcd7a09c1ea50099f754"
+git-tree-sha1 = "f6674ca6cfefefc608bc0c6c0b3964c4fbeb31dd"
 libc = "glibc"
 os = "linux"
 
     [[QPALM.download]]
-    sha256 = "b1442a7401adedc032e94936a12143233a940f35567c92238817da035306dc0b"
-    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.1.1+0/QPALM.v0.1.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "50db72932e1786fa610ab9b070ce2554ada837d65026098d0457021307feaf3d"
+    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.2.0+0/QPALM.v0.2.0.aarch64-linux-gnu.tar.gz"
 [[QPALM]]
 arch = "aarch64"
-git-tree-sha1 = "759dd11a242cb123d4efab5182a2c8f26ea772c7"
+git-tree-sha1 = "6840b0c0914223fb3cda2a85f2ef566d6e9296ba"
 libc = "musl"
 os = "linux"
 
     [[QPALM.download]]
-    sha256 = "7ff5e33ae6ec0215d50f31934eb9f0441a26c4d3641e698203cc20d1f0809f48"
-    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.1.1+0/QPALM.v0.1.1.aarch64-linux-musl.tar.gz"
+    sha256 = "7c114cd677dcc383586f279dcea473ae93ed3bec706101c58acc759e767236e7"
+    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.2.0+0/QPALM.v0.2.0.aarch64-linux-musl.tar.gz"
 [[QPALM]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "276965506a18abc193189b46dc93e90acffccf37"
+git-tree-sha1 = "26fc06c7f395841f8a0a234ef65e2060c4b761ad"
 libc = "glibc"
 os = "linux"
 
     [[QPALM.download]]
-    sha256 = "68000f5457ba81b50ba0ca09bbb709badd4f34621ccc1f2a6fe1a86d0c7da4f4"
-    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.1.1+0/QPALM.v0.1.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "700afaec358dcc195b38e522e22cdd02accf0f7e5a42143854c0462e5e373f65"
+    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.2.0+0/QPALM.v0.2.0.armv6l-linux-gnueabihf.tar.gz"
 [[QPALM]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "76a748bfc61308f1c0648409ebc5753a5e6e451f"
+git-tree-sha1 = "ad51434f92e7b0890c927d62e04e7c4a3a2aadb9"
 libc = "musl"
 os = "linux"
 
     [[QPALM.download]]
-    sha256 = "3ece8b92d3b36a2c1a3d3fd2ffd5a3a48fd9b4e219e759784ea67a3a0a544b9b"
-    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.1.1+0/QPALM.v0.1.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "932bb45b39d28ede51fdd47c6ad061abccdf75d2e72d07b6a7651cb24ef53141"
+    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.2.0+0/QPALM.v0.2.0.armv6l-linux-musleabihf.tar.gz"
 [[QPALM]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "b803b54c08a737f99079a351a302627a6b8498e7"
+git-tree-sha1 = "e5e68e465abc145b7b8a2c246cb6edfeae62635a"
 libc = "glibc"
 os = "linux"
 
     [[QPALM.download]]
-    sha256 = "05ff6fdef9e9eaee33505b50e0762142a365c5e694756b77f86af809961f17f9"
-    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.1.1+0/QPALM.v0.1.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "2a687347a77b53576c1a48462752786ba1883a43efad8b57338159123f179b01"
+    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.2.0+0/QPALM.v0.2.0.armv7l-linux-gnueabihf.tar.gz"
 [[QPALM]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "2a7515ce19ab16fb292d34abad445e3bd4b76d93"
+git-tree-sha1 = "b2dc82944ed221b47dd4c7a7937795d1e01cde64"
 libc = "musl"
 os = "linux"
 
     [[QPALM.download]]
-    sha256 = "ab447fb6bfb2e0d62950d8fea868d8ef780482529819400edbeac55a47865f05"
-    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.1.1+0/QPALM.v0.1.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "15ce72d468255f8978e20efe0bf37f978c167ed4a38c760fdc8deffeab0fb6f4"
+    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.2.0+0/QPALM.v0.2.0.armv7l-linux-musleabihf.tar.gz"
 [[QPALM]]
 arch = "i686"
-git-tree-sha1 = "caae9f902c5eb244771b9e94d1073744cc8614a4"
+git-tree-sha1 = "f6af7abcfe89d7e407777a2472d1e961407e9055"
 libc = "glibc"
 os = "linux"
 
     [[QPALM.download]]
-    sha256 = "2c030718c33d53b56c8770bc37fa3d82b39df897771b6200c507cdc5e9e8f2b1"
-    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.1.1+0/QPALM.v0.1.1.i686-linux-gnu.tar.gz"
+    sha256 = "7a9a51807b9b1dcc7a2b65564dd3a3dfffd16d2b5d44a10d733991891f85aa02"
+    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.2.0+0/QPALM.v0.2.0.i686-linux-gnu.tar.gz"
 [[QPALM]]
 arch = "i686"
-git-tree-sha1 = "ca6b781897252fc1027b0aa87c6d7bf744f98183"
+git-tree-sha1 = "f7cbc21159dfc822d74af74da4e9c19ba02459ab"
 libc = "musl"
 os = "linux"
 
     [[QPALM.download]]
-    sha256 = "8f2955752683300a39c1bd8817747ac817e785e5f0c50f4005185bf3da12d7b5"
-    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.1.1+0/QPALM.v0.1.1.i686-linux-musl.tar.gz"
+    sha256 = "a257e663fac53034f4e524fe42d7f91e3e7cfd50c3f484fdc25ef7fa0a10ca24"
+    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.2.0+0/QPALM.v0.2.0.i686-linux-musl.tar.gz"
 [[QPALM]]
 arch = "i686"
-git-tree-sha1 = "3a76daafcf370c8f3931153374158c0469d6b125"
+git-tree-sha1 = "efaf7cfc1b9b6520eb26381846f356e225e92878"
 os = "windows"
 
     [[QPALM.download]]
-    sha256 = "2aeec6436805cb432564e6caab0af1e47273a60b4cd4549f69be35b189bd17f5"
-    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.1.1+0/QPALM.v0.1.1.i686-w64-mingw32.tar.gz"
+    sha256 = "d4886e9116f98dc2ee67dbc25ec54474db74fbc11a4c5b2f0fed47e736a68515"
+    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.2.0+0/QPALM.v0.2.0.i686-w64-mingw32.tar.gz"
 [[QPALM]]
 arch = "powerpc64le"
-git-tree-sha1 = "7aa5927a478e79123503e531946b88fea7ce2ab9"
+git-tree-sha1 = "72f4ffe190c8220d800b4fb5ff555e40b8f641fd"
 libc = "glibc"
 os = "linux"
 
     [[QPALM.download]]
-    sha256 = "9e1e79d68f9bfa73398aba76771c0cfa6cd4589aee2617e45e2a88b7d5cddc17"
-    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.1.1+0/QPALM.v0.1.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "16532d5961b60e5dc52927621c4c357462eede78637688d5ffbc368013753ce7"
+    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.2.0+0/QPALM.v0.2.0.powerpc64le-linux-gnu.tar.gz"
 [[QPALM]]
 arch = "x86_64"
-git-tree-sha1 = "3125b3dbabd8068f23ebb27beec238e6f375f368"
+git-tree-sha1 = "95be192fd97d7548815f6baa62672a34d96709e5"
 os = "macos"
 
     [[QPALM.download]]
-    sha256 = "1be80fe0134cf4836ad49d3f7250cdd39c3ec157b0037a1418b96fb4257268cf"
-    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.1.1+0/QPALM.v0.1.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "5bada0e8dd8537c6b2b1a5bf58fd5320ad6a77ec40d0d0e7752eb7cacd92435d"
+    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.2.0+0/QPALM.v0.2.0.x86_64-apple-darwin.tar.gz"
 [[QPALM]]
 arch = "x86_64"
-git-tree-sha1 = "a6237c476686c801936f076cfc0d5604178b7cb0"
+git-tree-sha1 = "15731324a74f56d963cba0446ab8068aadf301d6"
 libc = "glibc"
 os = "linux"
 
     [[QPALM.download]]
-    sha256 = "2c7694cb0b0505b29b87206df52b3ed7b9d9d4a57f313085fa511efd44b88a1f"
-    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.1.1+0/QPALM.v0.1.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "123131edffcf7986ef4967a01a2ec9309451e8305d6d6f0c5ad54104670e0e6c"
+    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.2.0+0/QPALM.v0.2.0.x86_64-linux-gnu.tar.gz"
 [[QPALM]]
 arch = "x86_64"
-git-tree-sha1 = "7d5f57a0d87d57e0d5a98af62ebde6e6e2d43f08"
+git-tree-sha1 = "efb5eebe0f9f6d3c25ced59eaae1c3e14ea3f8ca"
 libc = "musl"
 os = "linux"
 
     [[QPALM.download]]
-    sha256 = "f23c560f034aa2d21d9c2e512f98ff2a1cb7be6ee9c6d0f07a2d258eb781a41d"
-    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.1.1+0/QPALM.v0.1.1.x86_64-linux-musl.tar.gz"
+    sha256 = "975a3153c06cebf8d58de1373eb275a3b8b7fab5a049f3725883127f04b1b405"
+    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.2.0+0/QPALM.v0.2.0.x86_64-linux-musl.tar.gz"
 [[QPALM]]
 arch = "x86_64"
-git-tree-sha1 = "a8be065ba43f05109aa868219d2e273d7406e282"
+git-tree-sha1 = "30e692b065d3f429b7695908d52bbcb9a1378e3d"
 os = "freebsd"
 
     [[QPALM.download]]
-    sha256 = "db522ee91848987d79aa2589b53ebf13c02c8954d5ef8973fc179084bf5f3544"
-    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.1.1+0/QPALM.v0.1.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "4c7df334264bd9a9cf5853af2531716bbd797241e5a88e935fd089d70ae793fd"
+    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.2.0+0/QPALM.v0.2.0.x86_64-unknown-freebsd.tar.gz"
 [[QPALM]]
 arch = "x86_64"
-git-tree-sha1 = "4494f274ae53d069a35067bc10c68b148c3d5b02"
+git-tree-sha1 = "2889b5bd241971e8f06ad9c714a7096e9accf910"
 os = "windows"
 
     [[QPALM.download]]
-    sha256 = "487fd529e7297a5a3ae209a93d70691d6f63d74a657390a22f7b89830c6394c5"
-    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.1.1+0/QPALM.v0.1.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "b61dadff0e71f2e929ef1ed1b846aee2590d6b04a1a8c89a1bdb3baddb37cc1c"
+    url = "https://github.com/JuliaBinaryWrappers/QPALM_jll.jl/releases/download/QPALM-v0.2.0+0/QPALM.v0.2.0.x86_64-w64-mingw32.tar.gz"
